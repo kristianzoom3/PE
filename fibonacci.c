@@ -4,7 +4,7 @@ int main(int argc, char const *argv[]) {
 
   printf("Introduce la cantidad a imprimir\n");
   scanf("%s", &n);
-
+int n, primerNum = 0, segundoNum = 1, sigNumero, c;
   printf("Los primeros %s numeros de la serie Fibonacci son: \n", n);
 
   for (c = 0; c < n; c++) {
