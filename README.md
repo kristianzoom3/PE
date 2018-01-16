@@ -9,8 +9,8 @@ Para dar un ejemplo rápido, 3 personas van a modificar el código que está en 
 
 2.	Modificará/Cambiará el tipo de datos de la siguiente línea:
 
-        `printf("Introduce la cantidad a imprimir\n");
+        printf("Introduce la cantidad a imprimir\n");
         scanf("%s", &n);
-        printf("Los primeros %s numeros de la serie Fibonacci son: \n", n);`
+        printf("Los primeros %s numeros de la serie Fibonacci son: \n", n);`/
  
 3.	Eliminará las líneas duplicadas.
