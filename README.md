@@ -1,7 +1,7 @@
 # Programación Estructurada - GIT
 
 Instrucciones:
-Para dar un ejemplo rápido, 3 personas van a modificar el código que está en el repositorio. 
+Para dar un ejemplo rápido, una persona van a modificar el código que está en el repositorio. 
 
  1. Agregará la siguiente línea:
 
